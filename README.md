@@ -1,16 +1,16 @@
-## Hi there 👋
+### Hi, I'm Ananya
 
-<!--
-**ananyaperi/ananyaperi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  B.Tech Artificial Intelligence Engineering @ Amrita Vishwa Vidyapeetham, Coimbatore. 3rd year, class of 2028.
 
-Here are some ideas to get you started:
+  **Currently building**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  - **[PrepCoach](https://github.com/ananyaperi/prepcoach)** — an agentic AI tool to help undergrads prep for placements
+  (Gemini function-calling, ChromaDB RAG; in progress)
+  - **[Smart Book Recommendation](https://github.com/ananyaperi/smart-book-recommendation)** — polished + deployed version of
+  a course group project (SVD + content-based hybrid, Streamlit)
+
+  **Other projects**
+
+  Image denoising via IFFT · Noise-detection robot · Bayesian analysis of structure & sequence alignment
+
+  **Reach me:** ananyaperi24@gmail.com
